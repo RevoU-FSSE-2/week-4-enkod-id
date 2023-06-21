@@ -1,6 +1,6 @@
 <h1>Assignment Week 01</h1>
 <p>My name is Natan and I'm a Software Engineering Student in Revou.</p>
-<p>Please visit my simple website <a href="">click here!</a></p>
+<p>Please visit my simple website <a href="https://nkod-revou-week1-assigment.netlify.app/index.html" target="_blank">click here!</a></p>
 
 Component I use :
 <ul>
