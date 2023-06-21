@@ -8,4 +8,5 @@ Component I use :
   <li>CSS</li>
   <li>JAVASCRIPT</li>
 </ul>
-(https://github.com/RevoU-FSSE-2/week-1-enkod-id/assets/18107640/8e9c89de-1c76-4b8e-9d1b-c16220f3148d)
+<img src="https://github.com/RevoU-FSSE-2/week-1-enkod-id/assets/18107640/8e9c89de-1c76-4b8e-9d1b-c16220f3148d">
+Thank You
