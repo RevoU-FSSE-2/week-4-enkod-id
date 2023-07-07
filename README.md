@@ -1,12 +1,89 @@
-<h1>Assignment Week 01</h1>
-<p>My name is Natan and I'm a Software Engineering Student in Revou.</p>
-<p>Please visit my simple website <a href="https://nkod-revou-week1-assigment.netlify.app/index.html" target="_blank">click here!</a></p>
 
-Component I use :
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JAVASCRIPT</li>
-</ul>
-<img src="https://github.com/RevoU-FSSE-2/week-1-enkod-id/assets/18107640/8e9c89de-1c76-4b8e-9d1b-c16220f3148d">
-Thank You
+<h1 align="center">
+  
+Custom domain
+  
+</h1>
+
+
+
+
+<p align="center">
+  <a href="#1">Buy domain at niagahoster</a> •
+  <a href="#2">Create account at netlify</a> •
+  <a href="#3">Deploy to netlify using repository github</a> •
+  <a href="#4">Create account at cloudflare</a> •
+</p>
+
+
+
+## Step 1
+* go to website niagahoster <a href="https://niagahoster.co.id/">click here</a>  
+* Create account 
+* search domain 
+* Buy and payment 
+* wait for active domain
+
+## Step 2
+
+* go to website netlify <a href="https://cloudflare.com/">click here</a>
+* create account  
+* verification in email
+* Setting site
+    - deploy site from repository in github
+    - change site name / add domain from niagahoster
+ 
+## Step 3
+
+* go to website cloudflare <a href="">click here</a>
+* create account  
+* verification in email
+* add site
+* add cname and record
+* change nameserver in niagahoster
+
+## source
+
+this site using source from assignment week 01 :
+
+```bash
+# Clone this repository
+$ git clone ....(url)
+
+# Go into the repository
+$ cd ...
+
+# Change remote
+$ 
+
+# git init
+$
+
+# push
+$
+
+# change brand
+$
+
+# marge 
+$ 
+
+
+```
+
+> **Note**
+> If you're using source from github or cloning, maybe you first change a url remote origin.
+
+
+
+
+
+
+
+
+
+
+---
+please visit the site <a href="https://enkod.site/">Click here</a>
+<p>Thank you for coming</p>
+
