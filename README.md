@@ -91,6 +91,10 @@ $
 
 
 ---
-please visit the site <a href="https://enkod.site/">Click here</a>
+![landingpage@](https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/4ba56273-1689-4386-bce0-f67dd8ba0c61)
+
+
+please visit the site <a href="https://www.enkod.site">Click here</a>
 <p>Thank you for coming</p>
+
 
