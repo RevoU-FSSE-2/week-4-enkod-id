@@ -43,7 +43,8 @@ Custom domain
 * verification in email
 * add site
 
-* add cname and record<br><img width="683" alt="cloud" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/159b15e3-545f-483e-a526-6f13bf5548df">
+* add cname and record<br><img width="380" alt="cname" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/fb6ca2a0-35d7-4c11-9b2e-c24a4f28bfca">
+
 
 * change nameserver in niagahoster<br><img width="300" alt="Screenshot 2023-07-08 074403" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/334f356a-469a-4133-aed8-8624140cc3b7">
 
