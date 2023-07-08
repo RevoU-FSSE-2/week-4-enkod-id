@@ -28,10 +28,13 @@ Custom domain
 
 * go to website netlify <a href="https://cloudflare.com/">click here</a>
 * create account  
-* verification in email
+* verify email<br>
+  <img width="300" alt="Screenshot 2023-07-07 222559" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/a0f5ec5e-a0f4-4336-aeea-7461530d0434">
+
 * Setting site
-    - deploy site from repository in github
-    - change site name / add domain from niagahoster
+    - deploy site from repository in github<br><img width="300" alt="Screenshot 2023-07-07 223147" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/ea7eb00f-89fe-42e0-8f5f-025397bb5340">
+
+    - add domain <br> <img width="488" alt="add_domain" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/e89afdf9-cd66-442d-8625-870d758f106f"> 
  
 ## Step 3
 
@@ -39,8 +42,11 @@ Custom domain
 * create account  
 * verification in email
 * add site
-* add cname and record
-* change nameserver in niagahoster
+
+* add cname and record<br><img width="683" alt="cloud" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/159b15e3-545f-483e-a526-6f13bf5548df">
+
+* change nameserver in niagahoster<br><img width="300" alt="Screenshot 2023-07-08 074403" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/334f356a-469a-4133-aed8-8624140cc3b7">
+
 
 ## source
 
