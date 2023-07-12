@@ -1,10 +1,10 @@
 
 <h1 align="center">
   
-Custom domain
+Custom domain from netlifly 
   
 </h1>
-
+<p>Hi, this is the step by step for custom domain from netlify</p>
 
 
 
@@ -19,8 +19,10 @@ Custom domain
 
 ## Step 1
 * go to website niagahoster <a href="https://niagahoster.co.id/">click here</a>  
-* Create account 
-* search domain 
+* Create account <br> <img width="700" alt="register" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/ece75f81-44ba-4ca4-b4b1-254d515586a2">
+
+* search domain <br> <img width="564" alt="order_domain" src="https://github.com/RevoU-FSSE-2/week-4-enkod-id/assets/18107640/86562619-0e2b-460f-86c4-6ad7700d5d6e">
+
 * Buy and payment 
 * wait for active domain
 
@@ -55,25 +57,34 @@ this site using source from assignment week 01 :
 
 ```bash
 # Clone this repository
-$ git clone ....(url)
+$ git clone https://github.com/RevoU-FSSE-2/week-1-enkod-id.git
 
 # Go into the repository
-$ cd ...
+$ cd .. (change directory)
 
 # Change remote
-$ 
+$ git remote remove origin
 
 # git init
-$
+$ git init 
+
+# git commit
+$ git commit -m "description" 
+
+# git add
+$ git add .
+
+# git remote
+$ git git remote add origin https://github.com/RevoU-FSSE-2/week-4-enkod-id.git
 
 # push
-$
+$ git push origin -u main
 
 # change brand
-$
+$ git checkout -b master
 
 # marge 
-$ 
+$ git push origin master
 
 
 ```
